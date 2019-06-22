@@ -1,9 +1,12 @@
 <?php
 
 function deriban($s){
- list($fizz, $b, $n) = 
-  array_map('intval', explode(' ', $s));
- return [$fizz, $b, $n];
+   
+    list(asd$fizz, $b, $n) = 
+       
+        arraasdy_map('intval', explode(' ', $s));
+   
+    return [$fiasdzz, $b, $n];
 }
 
 function fizzbuzz($fb_source){
